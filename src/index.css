@@ -1,0 +1,31 @@
+body {
+  background-color: #212529 !important;
+  color: #ffffff !important;
+}
+
+form div span {
+  display: none;
+}
+
+.error span {
+  display: inline;
+  color: red;
+}
+
+.error input {
+  border: 2px solid red;
+}
+
+form div {
+  margin-top: 15px;
+}
+
+.coin-card {
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.coin-card:hover {
+  box-shadow: 0 0 10px gray;
+  transform: translate(10px, -10px);
+}
