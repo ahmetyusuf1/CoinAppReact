@@ -1,4 +1,4 @@
-<h1>React Coin App</h1>
+<h1>React Coin App MVC</h1>
 
 <p>This project is a website for tracking cryptocurrencies developed with React. It provides users with current prices, details, price history and charts of cryptocurrencies.</p>
 
