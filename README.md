@@ -1,6 +1,6 @@
 <h1>React Coin App</h1>
 
-<p>coin app</p>
+<p>This project is a website for tracking cryptocurrencies developed with React. It provides users with current prices, details, price history and charts of cryptocurrencies.</p>
 
 <h2>Used Technologies</h2>
 
@@ -21,4 +21,4 @@
 
 <h1>Screen Gif</h1>
 
-<img src="/public//coinapp.gif" />
+<img src="/public/coinapp.gif" />
